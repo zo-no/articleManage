@@ -1,0 +1,18 @@
+.publish {
+    position: relative;
+  }
+  
+  .ant-upload-list {
+    .ant-upload-list-picture-card-container,
+    .ant-upload-select {
+      width: 146px;
+      height: 146px;
+    }
+  }
+  
+  .publish-quill {
+    .ql-editor {
+      min-height: 300px;
+    }
+  }
+  // 修改样式的办法：通过浏览器检测，找到类名，然后对应的修改
